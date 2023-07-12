@@ -1,4 +1,4 @@
-![image](https://github.com/Trushali29/E_SHOP/assets/84562990/1f0d7d8a-b994-41f3-9ff9-56662d51ad62)# E_SHOP
+# E_SHOP MANAGEMENT SYSTEM
 The Goal was to develop a stock and sell management system of the shopping mart.
 There are two parts in this project first is the managing the stocks that is number of items in the shop.
 Second is to maintain the logs of all sold products and generating the bill.
