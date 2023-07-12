@@ -27,7 +27,7 @@ Below are to be installed in the scripts folder of the python using command prom
 
 **View Stocks of E_SHOP**
 
-![image](https://github.com/Trushali29/E_SHOP/assets/84562990/b0cc3db7-9701-4f72-b7c1-d5343f4088b9)
+![image](https://github.com/Trushali29/E_SHOP/assets/84562990/cb818579-7f83-44ee-9572-4112e28187b3)
 
 
 **Add Products in stocks**
